@@ -87,7 +87,7 @@
         <Button x:Name="btn_update" Grid.Row="2" Grid.Column="8"
                 Margin="5,5,5,5">Update chosen</Button>
 
-        <ListView x:Name="lv_table" Margin="5,5,5,5" Grid.Row="3" Grid.Column="0" Background="LightBlue" Grid.RowSpan="3" Grid.ColumnSpan="7">
+        <ListView x:Name="lv_table" Margin="5,5,5,5" Grid.Row="3" Grid.Column="0" FontSize="24" Background="LightBlue" Grid.RowSpan="3" Grid.ColumnSpan="7">
 
         </ListView>
 
